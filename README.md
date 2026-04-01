@@ -1,13 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Fv7mIedl)
-# Music Streaming Platform - Programming II Assignment
+# Music Streaming Platform Project
 
-A Python 3.10+ object-oriented programming exercise. Your task is to implement the streaming platform domain model based on the specifications below.
+A Python 3.10+ object-oriented implementation of a streaming platform domain model based on the specifications below.
 
 ---
 
-## 🎯 Your Assignment
+## Goal
 
-You have been hired by a major music industry corporation to build the prototype of a **music streaming platform**. This platform will serve as the foundation for managing a vast ecosystem of artists, albums, tracks, and millions of listening sessions.
+Build the prototype of a **music streaming platform**. This platform will serve as the foundation for managing a vast ecosystem of artists, albums, tracks, and millions of listening sessions.
 
 ### Business Requirements
 
@@ -279,11 +278,4 @@ pip install pytest
 
 ---
 
-## 📞 Need Help?
 
-- Check the test files for expected behavior
-- Read the docstrings in skeleton files
-- Ask your instructor or classmates
-- Review the provided class diagram (ClassDiagram.puml)
-
-**Good luck! 🎵**

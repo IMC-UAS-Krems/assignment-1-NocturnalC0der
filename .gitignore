@@ -132,3 +132,5 @@ dmypy.json
 
 # Solution files (for instructors only)
 src_filled/
+
+README.md
